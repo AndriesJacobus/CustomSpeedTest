@@ -22,4 +22,4 @@ Using `speed-test.js` you can run a client that connects to the file server.<br/
 It periodically uses the above mentioned two endpoints to upload and download a file over the network.<br/>
 The average speed for the session can be seen in the terminal, while a log of the measured speeds is saved to a csv file.
 
-You can run this server executing `node peed-test.js` in its own terminal.
+You can run this server executing `node speed-test.js` in its own terminal.
